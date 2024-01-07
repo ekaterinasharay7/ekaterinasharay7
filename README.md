@@ -9,7 +9,7 @@ I am trying to improve my skills in different spheres and here you can find some
   *e_sharay - repository with my CV
 </pre>
 
-⚡Also some information about me and my skills:
+## ⚡Also some information about me and my skills:
 <pre>
  
  ✦ C++
