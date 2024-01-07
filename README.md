@@ -1,7 +1,7 @@
 # ✨ Hello, this is my Git ✨
 I'm  Sharay Ekaterina and I am a student of FAMCS BSU!
 I am trying to improve my skills in different spheres and here you can find some of tasks I have made. Also there are some repositories with my works
-###Repositories
+## Repositories
 <pre>
   *PP_labs - here you can find Java labs
   *OSI_labs - here you can find Operation Systems Labs
