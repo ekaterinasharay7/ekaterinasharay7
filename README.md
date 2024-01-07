@@ -1,4 +1,6 @@
 ### Welcome to my Git 👋
+I'm  Sharay Ekaterina and I am a student of Faculty of Applied Mathematics and Computer Science BSU! 
+
 
 <!--
 **ekaterinasharay7/ekaterinasharay7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
