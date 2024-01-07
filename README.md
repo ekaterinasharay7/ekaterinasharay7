@@ -1,10 +1,14 @@
 ### These is my Git 👋
-#I'm  Sharay Ekaterina and I am a student of FAMCS BSU! I am trying to improve my skills in different spheres and here you can find some of tasks I have made. There are some repositories with my works
+I'm  Sharay Ekaterina and I am a student of FAMCS BSU!
+I am trying to improve my skills in different spheres and here you can find some of tasks I have made. There are some repositories with my works
+
 <pre>
+ ✨
   *PP Labs - here you can find Java labs
   *OSI Labs - here you can find Operation Systems Labs
   *Algorithms Labs - here you can find labs from course " Algorithms and Data Structure " BSU
-  *e_sharay - repository with my CV✨
+  *e_sharay - repository with my CV
+ ✨
 </pre>
 
 
