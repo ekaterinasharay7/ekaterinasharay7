@@ -4,9 +4,9 @@ I am trying to improve my skills in different spheres and here you can find some
 
 <pre>
  
-  *PP Labs - here you can find Java labs
-  *OSI Labs - here you can find Operation Systems Labs
-  *Algorithms Labs - here you can find labs from course " Algorithms and Data Structure " BSU
+  *PP_labs - here you can find Java labs
+  *OSI_labs - here you can find Operation Systems Labs
+  *Algorithms_labs - here you can find labs from course " Algorithms and Data Structure " BSU
   *e_sharay - repository with my CV
  
 </pre>
