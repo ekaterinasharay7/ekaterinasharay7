@@ -7,7 +7,7 @@ I am trying to improve my skills in different spheres and here you can find some
   *OSI_labs - here you can find Operation Systems Labs
   *Algorithms - here you can find labs from course " Algorithms and Data Structure " BSU
   *e_sharay - repository with my CV
- *CrossCuttingTask - my project in the course "Indusrial Programming" BSU
+  *CrossCuttingTask - my project in the course "Indusrial Programming" BSU
 </pre>
 
 ## ⚡Also some information about me and my skills:
